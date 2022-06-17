@@ -4,5 +4,8 @@ class HelloWorld{
      
         // first pattern
         System.out.println("*\n**\n***\n****");
+
+    
+        
     }
 }
